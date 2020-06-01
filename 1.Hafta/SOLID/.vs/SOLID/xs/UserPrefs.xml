@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{015855EB-82BE-4F80-B035-281AA9CC0453}|Default">
+  <MonoDevelop.Ide.ItemProperties.0.SolidDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SolidDemo.DIP/Program.cs">
+    <Files>
+      <File FileName="SolidDemo/Program.cs" Line="1" Column="1" />
+      <File FileName="SolidDemo.DIP/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SOLID" expanded="True">
+            <Node name="2" expanded="True" />
+            <Node name="3" expanded="True" />
+            <Node name="4" expanded="True" />
+            <Node name="5" expanded="True">
+              <Node name="SolidDemo.DIP" expanded="True">
+                <Node name="Program.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="SOLID" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

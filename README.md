@@ -4,4 +4,4 @@
 
 ## The SOLID Principle
 
-[Detaylar](https://github.com/saidahmetbayrak/Bootcamp.Net-Core-Egitimi/blob/master/README.md)
+[SOLİD Prensipleri](https://github.com/saidahmetbayrak/Bootcamp.Net-Core-Egitimi/tree/master/1.Hafta/SOLID)

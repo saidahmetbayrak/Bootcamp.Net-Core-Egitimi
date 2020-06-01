@@ -1,0 +1,7 @@
+C:\Users\Sema\source\repos\091219_SOLID\SolidDemo.SRP\bin\Debug\SolidDemo.SRP.exe.config
+C:\Users\Sema\source\repos\091219_SOLID\SolidDemo.SRP\bin\Debug\SolidDemo.SRP.exe
+C:\Users\Sema\source\repos\091219_SOLID\SolidDemo.SRP\bin\Debug\SolidDemo.SRP.pdb
+C:\Users\Sema\source\repos\091219_SOLID\SolidDemo.SRP\obj\Debug\SolidDemo.SRP.csprojAssemblyReference.cache
+C:\Users\Sema\source\repos\091219_SOLID\SolidDemo.SRP\obj\Debug\SolidDemo.SRP.csproj.CoreCompileInputs.cache
+C:\Users\Sema\source\repos\091219_SOLID\SolidDemo.SRP\obj\Debug\SolidDemo.SRP.exe
+C:\Users\Sema\source\repos\091219_SOLID\SolidDemo.SRP\obj\Debug\SolidDemo.SRP.pdb
